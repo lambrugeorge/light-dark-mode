@@ -1,52 +1,48 @@
 # Development and Learning Journey
 
-> Explorează călătoria mea în lumea dezvoltării software!
+> Explore my journey in the world of software development!
 
-## Descriere
+## Description
 
-Acest proiect reprezintă un site simplu care prezintă călătoria mea în lumea dezvoltării software. Poți explora experiențele mele, proiectele și articolele recente.
+This project represents a simple website showcasing my journey in the realm of software development. You can explore my experiences, projects, and recent articles.
 
-## Caracteristici
+## Features
 
-- **Teme Light și Dark:** Comută între modurile de temă light și dark pentru o experiență personalizată.
-- **Navigare Simplă:** Folosește meniul de navigare pentru a accesa secțiunile site-ului.
-- **Articole Recente:** Descoperă cele mai recente articole și tutoriale în domeniul dezvoltării software.
+- **Light and Dark Themes:** Switch between [light](#) and [dark](#) themes for a personalized experience.
+- **Simple Navigation:** Use the [navigation menu](#nav) to access different sections of the site.
+- **Recent Articles:** Discover the latest articles and tutorials in the field of [software development](#projects).
 
 ## Demo
 
-Vezi proiectul în acțiune [aici](#).
+See the application in action [here](https://lambrugeorge.github.io/light-dark-mode/).
 
-## Cum să Folosești
+## How to Use
 
-1. Accesează [demo-ul proiectului](#).
-2. Explorează secțiunile site-ului utilizând meniul de navigare.
-3. Comută între modurile de temă light și dark pentru a alege preferințele tale.
+1. Access the [Light and Dark theme app](https://lambrugeorge.github.io/light-dark-mode/).
+2. Explore different sections of the site using the [navigation menu](#nav).
+3. Switch between [light](#) and [dark](#) themes to choose your preferences.
 
-## Capturi de Ecran
+## Screenshots
 
-![Captură de Ecran Light Mode](light.png)
-![Captură de Ecran Dark Mode](dark.png)
+![Screenshot Light Mode](light.png)
+![Screenshot Dark Mode](dark.png)
 
-## Cum să Contribui
+## How to Contribute
 
-Dacă dorești să contribui la îmbunătățirea acestui proiect, urmează acești pași:
+If you want to contribute to this project, follow these steps:
 
-1. **Clonează Proiectul:** `git clone https://github.com/nume-utilizator/nume-proiect.git`
-2. **Creează o Ramură Nouă:** `git checkout -b feature/Contribuie`
-3. **Adaugă și Comitează Schimbările:** `git commit -am 'Adaugă funcționalitatea X'`
-4. **Trimite Schimbările:** `git push origin feature/Contribuie`
-5. **Deschide un Pull Request:** Deschide un PR pe GitHub pentru a revizui și a aduce schimbările tale în proiect.
+1. **Clone the Project:** `git clone https://github.com/username/project-name.git`
+2. **Create a New Branch:** `git checkout -b feature/Contribute`
+3. **Add and Commit Changes:** `git commit -am 'Add feature X'`
+4. **Push Changes to Your Branch:** `git push origin feature/Contribute`
+5. **Open a Pull Request:** Open a PR on [GitHub](#) to review and merge your changes into the project.
 
-## Tehnologii Folosite
+## Technologies Used
 
 - HTML
 - CSS
 - JavaScript
 
-## Autor
+## Author
 
-Numele Autorului - [@nume-utilizator](https://github.com/nume-utilizator)
-
----
-
-**Notă:** Acest README este doar un șablon. Modifică-l pentru a se potrivi nevoilor specifice ale proiectului tău.
+Author's Name - [@ZTM-Academy](https://github.com/zero-to-mastery/javascript20-projects)
