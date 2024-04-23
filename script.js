@@ -10,7 +10,6 @@ function imageMode(color) {
     image1.src = `undraw_proud_coder_${color}.svg`;
     image2.src = `undraw_feeling_proud_${color}.svg`;
     image3.src = `undraw_conceptual_idea_${color}.svg`;
-
 }
 
 function darkMode() {
